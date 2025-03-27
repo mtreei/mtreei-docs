@@ -11,7 +11,7 @@
 * [会员等级及收益](cibp/user-level.md)
 * [社区等级及收益](cibp/ass-level.md)
 * [股东节点及收益](cibp/node-level.md)
-* [RWA: MTT](cibp/mtt.md)
+* [RWA-MTT](cibp/mtt.md)
 * [套餐及受益](cibp/menu.md)
 
 
