@@ -6,8 +6,8 @@
 
 * [平台介绍](cibp/platfrom.md)
 * [三方共赢](cibp/triple-win.md)
-* [稳定的收益](basics/images-and-media.md)
-* [会员等级及收益](basics/interactive-blocks.md)
+* [稳定的收益](cibp/income.md)
+* [会员等级及收益](cibp/interactive-blocks.md)
 * [社区等级及收益](basics/openapi.md)
 * [股东节点及收益](basics/integrations.md)
 * [RWA: MTT](basics/integrations.md)
