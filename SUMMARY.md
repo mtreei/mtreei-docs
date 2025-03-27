@@ -4,7 +4,7 @@
 
 ## MT合约保险平台
 
-* [平台介绍](cibp/platfrom.md)
+* [平台介绍](cibp/platform.md)
 * [三方共赢](cibp/triple-win.md)
 * [稳定的收益](cibp/income.md)
 * [会员等级及收益](cibp/interactive-blocks.md)
