@@ -1,17 +1,27 @@
 # Table of contents
 
 * [Welcome](README.md)
+* [基金会简介](getting-started/quickstart.md)
 
-## Getting Started
+## MT合约保险平台
 
-* [Quickstart](getting-started/quickstart.md)
-* [Publish your docs](getting-started/publish-your-docs.md)
+* [生态介绍](basics/editor.md)
+* [三方共赢](basics/markdown.md)
+* [稳定的收益](basics/images-and-media.md)
+* [会员等级及收益](basics/interactive-blocks.md)
+* [社区等级及收益](basics/openapi.md)
+* [股东节点及收益](basics/integrations.md)
+* [RWA: MTT](basics/integrations.md)
+* [保险玩法](basics/integrations.md)
+* [授信玩法](basics/integrations.md)
 
-## Basics
+### 玩法介绍
 
-* [Editor](basics/editor.md)
-* [Markdown](basics/markdown.md)
-* [Images & media](basics/images-and-media.md)
-* [Interactive blocks](basics/interactive-blocks.md)
-* [OpenAPI](basics/openapi.md)
-* [Integrations](basics/integrations.md)
+* [保险玩法](basics/integrations.md)
+* [授信玩法](basics/integrations.md)
+
+## 合规化交易所
+
+## 链游娱乐产业
+
+## AI智慧养老小镇
