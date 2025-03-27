@@ -1,7 +1,6 @@
 # Table of contents
 
-* [Welcome](README.md)
-* [基金会简介](getting-started/quickstart.md)
+* [欢迎](README.md)
 
 ## MT合约保险平台
 
