@@ -6,30 +6,29 @@
 
 * [平台介绍](cibp/platform.md)
 * [三方共赢](cibp/triple-win.md)
+* [公开透明](cibp/trade-data.md)
 * [稳定的收益](cibp/income.md)
-* [会员等级及收益](cibp/interactive-blocks.md)
-* [社区等级及收益](basics/openapi.md)
-* [股东节点及收益](basics/integrations.md)
-* [RWA: MTT](basics/integrations.md)
-* [保险玩法](basics/integrations.md)
-* [授信玩法](basics/integrations.md)
+* [会员等级及收益](cibp/user-level.md)
+* [社区等级及收益](cibp/ass-level.md)
+* [股东节点及收益](cibp/node-level.md)
+* [RWA: MTT](cibp/mtt.md)
+* [套餐及受益](cibp/menu.md)
 
-### 玩法介绍
 
-* [保险玩法](basics/integrations.md)
-* [授信玩法](basics/integrations.md)
+##### 玩法介绍
 
-## 合规化交易所
+* [保险玩法](cibp/game-1.md)
+* [授信玩法](cibp/game-2.md)
 
-* [保险玩法](basics/integrations.md)
-* [授信玩法](basics/integrations.md)
+## AI量化交易所
 
-## 链游娱乐产业
+* [交易所介绍](cex/cex.md)
 
-* [保险玩法](basics/integrations.md)
-* [授信玩法](basics/integrations.md)
+
+## 区块链游戏产业
+
+* [链游介绍](game/block-game.md)
 
 ## AI智慧养老小镇
 
-* [保险玩法](basics/integrations.md)
-* [授信玩法](basics/integrations.md)
+* [小镇介绍](town/town.md)
