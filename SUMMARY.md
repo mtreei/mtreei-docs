@@ -4,8 +4,8 @@
 
 ## MT合约保险平台
 
-* [生态介绍](basics/editor.md)
-* [三方共赢](basics/markdown.md)
+* [平台介绍](cibp/platfrom.md)
+* [三方共赢](cibp/triple-win.md)
 * [稳定的收益](basics/images-and-media.md)
 * [会员等级及收益](basics/interactive-blocks.md)
 * [社区等级及收益](basics/openapi.md)
