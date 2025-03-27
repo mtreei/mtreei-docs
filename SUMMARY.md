@@ -22,6 +22,15 @@
 
 ## 合规化交易所
 
+* [保险玩法](basics/integrations.md)
+* [授信玩法](basics/integrations.md)
+
 ## 链游娱乐产业
 
+* [保险玩法](basics/integrations.md)
+* [授信玩法](basics/integrations.md)
+
 ## AI智慧养老小镇
+
+* [保险玩法](basics/integrations.md)
+* [授信玩法](basics/integrations.md)
