@@ -9,12 +9,13 @@
 * [公开透明](cibp/trade-data.md)
 * [稳定的收益](cibp/income.md)
 * [会员等级及收益](cibp/user-level.md)
-* [社区等级及收益](cibp/ass-level.md)
+* [社区推广方案](cibp/ass-level.md)
 * [股东节点及收益](cibp/node-level.md)
 * [RWA: MTT](cibp/mtt.md)
 * [套餐及受益](cibp/menu.md)
 * [积分说明](cibp/points.md)
 * [玩法介绍](cibp/game.md)
+
 
 # AI量化交易所 💹
 
