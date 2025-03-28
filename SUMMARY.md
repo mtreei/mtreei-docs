@@ -14,7 +14,7 @@
 * [RWA: MTT](cibp/mtt.md)
 * [套餐及受益](cibp/menu.md)
 * [积分说明](cibp/points.md)
-
+* [玩法介绍](cibp/game.md)
 
 ##### 玩法介绍
 
