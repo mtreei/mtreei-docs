@@ -16,11 +16,9 @@
 * [积分说明](cibp/points.md)
 * [玩法介绍](cibp/game.md)
 
-
 # AI量化交易所 💹
 
 * [交易所介绍](cex/cex.md)
-
 
 # 区块链游戏产业 🎮
 
