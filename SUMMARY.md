@@ -16,20 +16,15 @@
 * [积分说明](cibp/points.md)
 * [玩法介绍](cibp/game.md)
 
-##### 玩法介绍
-
-* [保险玩法](cibp/game-1.md)
-* [授信玩法](cibp/game-2.md)
-
-## AI量化交易所
+## AI量化交易所 💹
 
 * [交易所介绍](cex/cex.md)
 
 
-## 区块链游戏产业
+## 区块链游戏产业 🎮
 
 * [链游介绍](game/block-game.md)
 
-## AI智慧养老小镇
+## AI智慧养老小镇 🏡
 
 * [小镇介绍](town/town.md)
