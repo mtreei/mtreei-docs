@@ -2,7 +2,7 @@
 
 * [Money Tree Insurance](readme.md)
 
-# MT合约保险平台 🌐
+## MT合约保险平台 🌐
 
 * [平台介绍](cibp/platform1.md)
 * [三方共赢](cibp/triple-win1.md)
@@ -16,14 +16,14 @@
 * [积分说明](cibp/points.md)
 * [玩法介绍](cibp/game.md)
 
-# AI量化交易所 💹
+## AI量化交易所 💹
 
 * [交易所介绍](cex/cex.md)
 
-# 区块链游戏产业 🎮
+## 区块链游戏产业 🎮
 
 * [链游介绍](game/block-game.md)
 
-# AI智慧养老小镇 🏡
+## AI智慧养老小镇 🏡
 
 * [小镇介绍](town/town.md)
