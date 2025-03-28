@@ -1,11 +1,11 @@
 # Table of contents
 
-* [欢迎](readme.md)
+* [Money Tree Insurance PTE.LTD.](readme.md)
 
-## MT合约保险平台
+## MT合约保险平台 🌐
 
-* [平台介绍](cibp/platform.md)
-* [三方共赢](cibp/triple-win.md)
+* [平台介绍](cibp/platform1.md)
+* [三方共赢](cibp/triple-win1.md)
 * [公开透明](cibp/trade-data.md)
 * [稳定的收益](cibp/income.md)
 * [会员等级及收益](cibp/user-level.md)
