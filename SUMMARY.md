@@ -1,6 +1,6 @@
 # Table of contents
 
-* [欢迎](README.md)
+* [欢迎](ABOUT.md)
 
 ## MT合约保险平台
 
