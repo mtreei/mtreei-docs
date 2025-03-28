@@ -10,4 +10,4 @@
     
 #### 多级的分配
 
-详情查看 [社区推广方案](cibp/ass-level.md): **分享奖励**
+详情查看 **[社区推广方案:分享奖励](https://mtreei.gitbook.io/mtreei-docs/ass-level#fen-xiang-jiang-li)**
