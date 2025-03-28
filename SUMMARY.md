@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Money Tree Insurance PTE.LTD.](readme.md)
+* [Money Tree Insurance](readme.md)
 
 # MT合约保险平台 🌐
 
